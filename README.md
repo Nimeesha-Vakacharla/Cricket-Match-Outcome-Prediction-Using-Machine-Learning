@@ -132,7 +132,8 @@ Local demo at `http://localhost:5000`. <img width="945" height="474" alt="image"
 <img width="908" height="625" alt="image" src="https://github.com/user-attachments/assets/ad709946-5d77-49ae-b897-129bd65a1a35" />
 
 
-![Uploading image.png…]()
+<img width="908" height="625" alt="image" src="https://github.com/user-attachments/assets/fc4bfaed-f296-4dac-84af-c4858abc8111" />
+
 
 
 
